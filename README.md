@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kal</h1>
+<h1 align="center">Hi 👋, I'm kal </h1>
 <h3 align="center">"Software Engineering Student| Aspiring Full-Stack Developer | Passionate About Web Development and Technology Leadership"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalkidan1919&label=Profile%20views&color=0e75b6&style=flat" alt="kalkidan1919" /> </p>
